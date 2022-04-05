@@ -1,6 +1,5 @@
 import { Navigate, useRoutes } from 'react-router-dom';
 import DashboardLayout from './layouts/dashboard';
-import LogoOnlyLayout from './layouts/LogoOnlyLayout';
 import DashboardApp from './pages/DashboardApp';
 import GetMovies from './features/movie/Views/movie_list_page';
 import AddMovie from './features/movie/Views/movie_add_page';
